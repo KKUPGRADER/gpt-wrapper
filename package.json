@@ -47,7 +47,7 @@
     "interweave": "^13.1.0",
     "jsonwebtoken": "^9.0.0",
     "language-detect": "^1.1.0",
-    "mongoose": "^6.8.3",
+    "mongoose": "^6.11.3",
     "next": "^13.4.3",
     "next-auth": "^4.22.1",
     "next-connect": "^0.13.0",
