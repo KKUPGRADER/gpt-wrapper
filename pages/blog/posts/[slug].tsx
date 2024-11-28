@@ -55,7 +55,7 @@ export async function getServerSideProps({ params }) {
 
 }
 
-export default function Post(
+export default function Post(){
   
 
   return null;
